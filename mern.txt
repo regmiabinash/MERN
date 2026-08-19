@@ -1,0 +1,8 @@
+node modules le chaine dependencies haru download garera rakcha.
+public ma chai client le tya bhako folder access garnu milcha.
+react: spa single page application
+
+package.json: manage project's meta data, scripts and dependencies
+
+assests: store private files
+

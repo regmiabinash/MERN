@@ -1,0 +1,10 @@
+@import "tailwindcss";
+#root {
+  max-width: 1280px;
+  min-height: 100vh; 
+  background-color: 0000;
+  color:black;
+  margin: 0 auto;
+  /* vh =device ko screen size */
+}
+
